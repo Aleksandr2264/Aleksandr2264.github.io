@@ -87,35 +87,35 @@ a, a:hover {text-decoration: none;}
     height: 30px;
 	width: 50px;
 	cursor: pointer;
-	background:  url(arow.png) no-repeat center bottom;
+	background:  url(images/arow.png) no-repeat center bottom;
 
 }
 #down:hover{
 	 transform: translateY(10px);
-	 background:  url(arow.png) no-repeat center bottom;
+	 background:  url(images/arow.png) no-repeat center bottom;
 }
 
 
 .appl {
 	height: 54px;
 	width: 54px;
-	background:  url(aple.png) no-repeat center;
+	background:  url(images/aple.png) no-repeat center;
 }
-.appl:hover{background:  url(aplehover.png) no-repeat center;}
+.appl:hover{background:  url(images/aplehover.png) no-repeat center;}
 
 .andr{
     height: 54px;
 	width: 54px;
-	background:  url(android.png) no-repeat center;
+	background:  url(images/android.png) no-repeat center;
 }
-.andr:hover{background:  url(androidhover.png) no-repeat center;}
+.andr:hover{background:  url(images/androidhover.png) no-repeat center;}
 
 .wind{
     height: 54px;
 	width: 54px;
-	background:  url(windows.png) no-repeat center;
+	background:  url(images/windows.png) no-repeat center;
 }
-.wind:hover{background:  url(windowshover.png) no-repeat center;}
+.wind:hover{background:  url(images/windowshover.png) no-repeat center;}
 
 .aplle img{
 	padding: 0 0 40px;
@@ -240,17 +240,17 @@ a, a:hover {text-decoration: none;}
 
 .ricon h4{padding-bottom: 25px;}
 
-.colors{background: url(colors.png) no-repeat center top;}
+.colors{background: url(images/colors.png) no-repeat center top;}
 
-.design{background: url(design.png) no-repeat center top;}
+.design{background: url(images/design.png) no-repeat center top;}
 
-.marketable{background: url(arrow.png) no-repeat center top;}
+.marketable{background: url(images/arrow.png) no-repeat center top;}
 
-.photos{background: url(photos.png) no-repeat center top;}
+.photos{background: url(images/photos.png) no-repeat center top;}
 
-.friendly{background: url(frendly.png) no-repeat center top;}
+.friendly{background: url(images/frendly.png) no-repeat center top;}
 
-.editable{background: url(editable.png) no-repeat center top;}
+.editable{background: url(images/editable.png) no-repeat center top;}
 
 .texticon{padding-bottom: 110px;}
 
@@ -262,7 +262,7 @@ a, a:hover {text-decoration: none;}
 
 #home{
 	height: 700px;
-	background: #fff url(home.jpg) no-repeat center bottom;
+	background: #fff url(images/home.jpg) no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -301,7 +301,7 @@ a, a:hover {text-decoration: none;}
 	border: none;
    /* height: 30px;*/
     width: 250px;
-    background: url(line.png) no-repeat top;
+    background: url(images/line.png) no-repeat top;
 }
 
 .d19{
@@ -319,7 +319,7 @@ padding: 10px 0 10px;
 }
 
 .basic{
-    background: url(standart.jpg) no-repeat center;
+    background: url(images/standart.jpg) no-repeat center;
 }
 
 .basic:hover{
@@ -328,11 +328,11 @@ padding: 10px 0 10px;
     -moz-transform: translateY(30px);
     -webkit-transform: translateY(30px);  
     transform: translateY(30px);
-     background: url(standart1.jpg) no-repeat center;
+     background: url(images/standart1.jpg) no-repeat center;
 
 }
 .standart{
-    background: url(standart.jpg) no-repeat center bottom;	
+    background: url(images/standart.jpg) no-repeat center bottom;	
 }
 .standart:hover{
     -o-transform: translateY(30px);
@@ -340,12 +340,12 @@ padding: 10px 0 10px;
     -moz-transform: translateY(30px);
     -webkit-transform: translateY(30px);  
     transform: translateY(30px);
-    background: url(standart1.jpg) no-repeat center;
+    background: url(images/standart1.jpg) no-repeat center;
 
 }
 
 .deluxe{
-    background: url(standart.jpg) no-repeat center bottom;	
+    background: url(images/standart.jpg) no-repeat center bottom;	
 }
 .deluxe:hover{
     -o-transform: translateY(30px);
@@ -353,12 +353,12 @@ padding: 10px 0 10px;
     -moz-transform: translateY(30px);
     -webkit-transform: translateY(30px);  
     transform: translateY(30px);
-    background: url(standart1.jpg) no-repeat center;
+    background: url(images/standart1.jpg) no-repeat center;
 
 }
 
 .unlimited{
-    background: url(standart.jpg) no-repeat center bottom;	
+    background: url(images/standart.jpg) no-repeat center bottom;	
 }
 .unlimited:hover{
     -o-transform: translateY(30px);
@@ -366,7 +366,7 @@ padding: 10px 0 10px;
     -moz-transform: translateY(30px);
     -webkit-transform: translateY(30px);  
     transform: translateY(30px);
-    background: url(standart1.jpg) no-repeat center;
+    background: url(images/standart1.jpg) no-repeat center;
 
 }
 section{
@@ -377,7 +377,7 @@ section{
 }
 .button{
 	padding: 35px 0 10px;
-	background: url(button.png) no-repeat bottom;
+	background: url(images/button.png) no-repeat bottom;
 }
 .paceg p{
 	font: bold 15px/15px Arial, sans-serif;
@@ -417,7 +417,7 @@ section{
 
 	text-align: center;
 	height: 250px;
-	background: #fff url(register.jpg) no-repeat center bottom;
+	background: #fff url(images/register.jpg) no-repeat center bottom;
 	background-size: cover;
 }
 .subscrib h6{padding: 60px 0 60px;
@@ -430,7 +430,7 @@ section{
 	border: 0px;
 	height: 70px;
 	width: 380px;
-	background:  url(container.png) no-repeat center bottom;
+	background:  url(images/container.png) no-repeat center bottom;
 }
 .but{
 font: bold 20px/20px Arial, sans-serif;
@@ -438,7 +438,7 @@ font: bold 20px/20px Arial, sans-serif;
     padding: 25px 0 0;
 	height: 70px;
 	width: 150px;
-	background:  url(container1.png) no-repeat center bottom;
+	background:  url(images/container1.png) no-repeat center bottom;
 	
 }
 .but p{
@@ -478,44 +478,44 @@ font: bold 20px/20px Arial, sans-serif;
 .twiter {
 	height: 34px;
 	width: 34px;
-	background:  url(twitter.png) no-repeat center;
+	background:  url(images/twitter.png) no-repeat center;
 }
-.twiter:hover{background:  url(../html/twitterhover.png) no-repeat center;}
+.twiter:hover{background:  url(images/twitterhover.png) no-repeat center;}
 
 .fasebo{
     height: 34px;
 	width: 34px;
-	background:  url(facebook.png) no-repeat center;
+	background:  url(images/facebook.png) no-repeat center;
 }
-.fasebo:hover{background:  url(../html/facebookhover.png) no-repeat center;}
+.fasebo:hover{background:  url(images/facebookhover.png) no-repeat center;}
 
 .pinter{
     height: 34px;
 	width: 34px;
-	background:  url(pinterset.png) no-repeat center;
+	background:  url(images/pinterset.png) no-repeat center;
 }
-.pinter:hover{background:  url(../html/pintersethover.png) no-repeat center;}
+.pinter:hover{background:  url(images/pintersethover.png) no-repeat center;}
 
 .google{
     height: 34px;
 	width: 34px;
-	background:  url(google.png) no-repeat center;
+	background:  url(images/google.png) no-repeat center;
 }
-.google:hover{background:  url(googlehover.png) no-repeat center;}
+.google:hover{background:  url(images/googlehover.png) no-repeat center;}
 
 .linked{
     height: 34px;
 	width: 34px;
-	background:  url(linkedin.png) no-repeat center;
+	background:  url(images/linkedin.png) no-repeat center;
 }
-.linked:hover{background:  url(linkedinhover.png) no-repeat center;}
+.linked:hover{background:  url(images/linkedinhover.png) no-repeat center;}
 
 .youtub{
     height: 34px;
 	width: 34px;
-	background:  url(youtube.png) no-repeat center;
+	background:  url(images/youtube.png) no-repeat center;
 }
-.youtub:hover{background:  url(youtubehover.png) no-repeat center;}
+.youtub:hover{background:  url(images/youtubehover.png) no-repeat center;}
 
 
 
